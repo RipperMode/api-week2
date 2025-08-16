@@ -4,7 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/<you>/api-week2/internal/store"
+	"api-test/internal/store"
+
 	"github.com/gin-gonic/gin"
 )
 

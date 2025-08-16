@@ -3,7 +3,7 @@ package store
 import (
 	"sync"
 
-	"github.com/rippermode/api-week2/internal/model"
+	"api-test/internal/model"
 )
 
 type MemStore struct {
